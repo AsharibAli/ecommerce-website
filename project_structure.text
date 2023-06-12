@@ -1,0 +1,77 @@
+- .babelrc
+- .env
+- .eslintrc.json
+- .gitignore
+- components
+  - AllProducts.jsx
+  - EventsBanner.jsx
+  - FeaturesBanner.jsx
+  - Footer.jsx
+  - HeroBanner.jsx
+  - index.js
+  - Layout.jsx
+  - Navbar.jsx
+  - Newsletter.jsx
+  - Product.jsx
+- context
+  - StateContext.js
+  - StateContext2.js
+- jsconfig.json
+- lib
+  - client.js
+  - getStripe.js
+  - utils.js
+- next.config.js
+- package-lock.json
+- package.json
+- pages
+  - api
+    - stripe.js
+  - cart.js
+  - female.js
+  - index.js
+  - kids.js
+  - male.js
+  - product
+    - [slug].js
+  - products.js
+  - studio
+    - [[...index]].jsx
+  - successPay.js
+  - _app.js
+  - _document.js
+- public
+  - assets
+    - Back.png
+    - event1.png
+    - event2.png
+    - event3.png
+    - feature.png
+    - Featured1.png
+    - Featured2.png
+    - Featured3.png
+    - Featured4.png
+    - header-section.png
+    - header.png
+    - Logo.png
+    - middle-section.png
+    - Next.png
+    - payment.png
+    - products.png
+    - success-pay.png
+  - favicon.ico
+  - next.svg
+  - vercel.svg
+- README.md
+- sanity
+  - banner.js
+  - env.js
+  - lib
+    - client.js
+    - image.js
+  - product.js
+  - schema.js
+- sanity.cli.js
+- sanity.config.js
+- styles
+  - globals.css
